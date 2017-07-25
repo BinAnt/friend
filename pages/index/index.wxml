@@ -1,0 +1,29 @@
+<!--index.wxml-->
+<view class="container">
+<view>
+    <navigator url="/pages/prepage/index" hover-class="navigator-hover">prepage</navigator>
+    <navigator url="/pages/actionsheet/actionsheet" hover-class="navigator-hover">actionsheet</navigator>
+    <navigator url="/pages/article/article" hover-class="other-navigator-hover">article</navigator>
+    <navigator url="/pages/badge/badge"  hover-class="other-navigator-hover">badge</navigator>
+    <navigator url="/pages/button/button" hover-class="other-navigator-hover">button</navigator>
+    <navigator url="/pages/dialog/dialog" hover-class="other-navigator-hover">dialog</navigator>
+    <navigator url="/pages/flex/flex" hover-class="other-navigator-hover">flex</navigator>
+    <navigator url="/pages/footer/footer" hover-class="other-navigator-hover">footer</navigator>
+    <navigator url="/pages/gallery/gallery" hover-class="other-navigator-hover">gallery</navigator>
+    <navigator url="/pages/grid/grid" hover-class="other-navigator-hover">grid</navigator>
+    <navigator url="/pages/icons/icons" hover-class="other-navigator-hover">icons</navigator>
+    <navigator url="/pages/input/input" hover-class="other-navigator-hover">input</navigator>
+    <navigator url="/pages/list/list" hover-class="other-navigator-hover">list</navigator>
+    <navigator url="/pages/loadmore/loadmore" hover-class="other-navigator-hover">loadmore</navigator>
+    <navigator url="/pages/navbar/navbar" hover-class="other-navigator-hover">navbar</navigator>
+    <navigator url="/pages/panel/panel" hover-class="other-navigator-hover">panel</navigator>
+    <navigator url="/pages/picker/picker" hover-class="other-navigator-hover">picker</navigator>
+    <navigator url="/pages/preview/preview" hover-class="other-navigator-hover">preview</navigator>
+    <navigator url="/pages/progress/progress" hover-class="other-navigator-hover">progress</navigator>
+    <navigator url="/pages/searchbar/searchbar" hover-class="other-navigator-hover">searchbar</navigator>
+    <navigator url="/pages/slider/slider" hover-class="other-navigator-hover">slider</navigator>
+    <navigator url="/pages/tabbar/tabbar" hover-class="other-navigator-hover">tabbar</navigator>
+    <navigator url="/pages/toast/toast" hover-class="other-navigator-hover">toast</navigator>
+    <navigator url="/pages/uploader/uploader" hover-class="other-navigator-hover">uploader</navigator>
+</view>
+</view>
